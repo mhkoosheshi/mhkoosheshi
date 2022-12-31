@@ -1,5 +1,5 @@
 - Hey, I am MohammadHossein.
-- I am interested in Robotics, Computer Vision, and Biomedical Engineering.
+- I am interested in Robotics, Computer Vision, Physics, and Biomedical Engineering.
 - My latest contribution is in skin lesion segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
-- I am currently working on CNN-based Robotic Grasping and it's gonna be LEGEND.....wait for it.....ARY.
-- Lastly, not much of a cat person. I just find this cat cute and she is also on my desktop.
+- I am currently working on CNN-based Robotic Grasping and it's gonna be LEGEN.....wait for it.....DARY.
+- Lastly, not much of a cat person. I just find this cat cute. She is also on my desktop.

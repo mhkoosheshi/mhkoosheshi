@@ -1,4 +1,4 @@
-- Hey, I am MohammadHossein
+- Hey, I am MohammadHossein.
 - I am interested in Robotics, Computer Vision, and Biomedical Engineering.
-- My most recent project can be found here. 
-- I am currently working on Robotic Grasping.
+- My latest contribution is in skin lesion segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
+- I am currently working on CNN-based Robotic Grasping and it's gonna be LEGEND.....wait for it.....ARY.

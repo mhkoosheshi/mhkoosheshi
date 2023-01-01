@@ -1,4 +1,4 @@
-## About
+# About
 
 #### - Hey, I am MohammadHossein.
 #### - I am interested in Robotics, Computer Vision, Physics, and Biomedical Engineering.
@@ -6,9 +6,9 @@
 #### - Lastly, not much of a cat person. I just find this cat cute. She is also on my desktop.
 
 
-## Projects 💻
+# Projects 💻
 
-#### 1- Skin Lesion Segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
+### 1- Skin Lesion Segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
 
 
 

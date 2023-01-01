@@ -10,3 +10,4 @@
 
 #### 1- Skin Lesion Segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
     
+![alt text](https://github.com/mhkoosheshi/mhkoosheshi/blob/main/exp.png)

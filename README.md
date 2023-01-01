@@ -9,4 +9,6 @@
 ## Projects 💻
 
 #### 1- Skin Lesion Segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
+
+U-Net Pyramid CBAM Gate (UPCG) deplys both CBAM and attention gate in sequence. Experiments show that more attention can lead to less mistakes made by U-Nets and more accuracy especially in difficult scenarios ( e.g. in the borders )
 <img style="float: right;" src="https://github.com/mhkoosheshi/mhkoosheshi/blob/main/exp.png" width="350"/>

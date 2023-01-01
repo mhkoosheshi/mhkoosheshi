@@ -9,5 +9,4 @@
 ## Projects 💻
 
 #### 1- Skin Lesion Segmentation. [GitHub](https://github.com/pooya-mohammadi/unet-skin-cancer) and [arXiv](https://arxiv.org/abs/2210.16399).
-    
-<img style="float: center;" src="https://github.com/mhkoosheshi/mhkoosheshi/blob/main/exp.png" width="500"/>
+<img style="float: right;" src="https://github.com/mhkoosheshi/mhkoosheshi/blob/main/exp.png" width="500"/>

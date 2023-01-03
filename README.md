@@ -1,7 +1,7 @@
 # About
 
 #### - Hey, I am MohammadHossein.
-#### - I am interested in Robotics, Computer Vision, Physics, and Biomedical Engineering.
+#### - I am interested in Machine Learning and its applications.
 #### - I am currently working on CNN-based Robotic Grasping and it's gonna be LEGEN.....wait for it.....DARY.
 #### - Lastly, not much of a cat person. I just find this cat cute. She is also on my desktop.
 

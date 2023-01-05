@@ -3,7 +3,6 @@
 #### - Hey, I am MohammadHossein.
 #### - I am interested in Machine Learning and its applications.
 #### - I am currently working on CNN-based Robotic Grasping.
-#### - Lastly, not much of a cat person. I just find this cat cute. She is also on my desktop.
 
 
 # Projects 💻

@@ -1,7 +1,7 @@
 # About
 
 #### - Hey, I am MohammadHossein.
-#### - I am interested in Machine Learning and its applications.
+#### - I am interested in Robotics, Healthcare Technology, and Physics.
 #### - I am currently working on CNN-based Robotic Grasping.
 
 

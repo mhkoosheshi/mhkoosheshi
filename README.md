@@ -1,7 +1,7 @@
 # About
 
 #### - Hey, I am MohammadHossein.
-#### - I am interested in Robotics, Healthcare Technology, and Physics.
+#### - I am interested in Robotics, Healthcare, and Physics.
 #### - I am currently working on Vision-based Robotic Grasping.
 
 
